@@ -1,10 +1,10 @@
-## Computer Anonymous
+## Security Anonymous
 
-A meeting for people who don't know what they are doing on computer. The ideals and rules of the meetup are documented in index.html. 
+A meeting for people who don't know what they are doing in security, inspired by the wonderful folks at [Computer Anonymous](http://computeranonymous.org). The ideals and rules of the meetup are documented in index.html. 
 
-We want to create a social group for people in and around tech, from all backgrounds, where they feel comfortable and welcome. 
+We want to create a social group for people in and around computer security, from all backgrounds, where they feel comfortable and welcome. 
 
-We're not an outreach or an educational group, although both are important to us, we're primarily a technology related meetup, but with a code of conduct.
+We're not an outreach or an educational group, although both are important to us, we're primarily a security related meetup, but with a code of conduct.
 
 If you want to start your own meetup, fork and open a pull request. We also love feedback and translations.
 
@@ -17,7 +17,7 @@ Meeting pages and changes will almost always get merged straight away, but other
 - We have a complexity budget, we cannot make an exhaustive set of rules, and we have to translate things so the less words the better.
 - Smaller changes to the Rules have a higher chance of success, Larger changes take more discussion. Edit one line at a time.
 - The Code of Conduct is not a solution to people's behavior, but it's about admitting there is a problem. 
-- Please avoid gendered language. This means don't use "guys", "guys and gals", "dude". We suggest "meatbags", "people", "peeps" or "folks".
+- Please avoid gendered language. This means don't use "guys", "guys and gals", "dude". We suggest "meatbags", "people", "peeps", "y'all", or "folks".
 
 
 
