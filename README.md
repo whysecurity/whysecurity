@@ -1,10 +1,10 @@
-## Security Anonymous
+## whysecurity
 
 A meeting for people who don't know what they are doing in security, inspired by the wonderful folks at [Computer Anonymous](http://computeranonymous.org). The ideals and rules of the meetup are documented in index.html. 
 
 We want to create a social group for people in and around computer security, from all backgrounds, where they feel comfortable and welcome. 
 
-We're not an outreach or an educational group, although both are important to us, we're primarily a security related meetup, but with a code of conduct.
+We're not an outreach or an educational group, although both are important to us. We're primarily a security related meetup, but with a code of conduct.
 
 If you want to start your own meetup, fork and open a pull request. We also love feedback and translations.
 
